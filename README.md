@@ -1,13 +1,5 @@
-# Hi, I'm cam 👋
+# Welcome to my profile!
 
-I'm a software developer and open-source enthusiast.
+Check out my website: [https://clu.ng](https://clu.ng)
 
-## Skills and Technologies:
-- JavaScript, Python, Java
-- React, Node.js, Django
-
-## Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/yourname)
-- [Twitter](https://twitter.com/yourname)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
+![My Lanyard Status](https://lanyard.cnrad.dev/api/71434390550355968?bg=00000000&animated=true=true&hideSpotify=false&showDisplayName=true&hideActivity=true)
