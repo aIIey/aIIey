@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm cam 👋
 
-<!--
-**aIIey/aIIey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer and open-source enthusiast.
 
-Here are some ideas to get you started:
+## Skills and Technologies:
+- JavaScript, Python, Java
+- React, Node.js, Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/yourname)
+- [Twitter](https://twitter.com/yourname)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
